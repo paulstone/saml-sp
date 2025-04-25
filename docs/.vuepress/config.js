@@ -17,7 +17,7 @@ module.exports = {
             // any other languages you want to include in code toggles...
         },
         nav: [
-            {text: 'Details', link: 'https://www.flipboxdigital.com/craft-cms-plugins/saml-service-provider'},
+            {text: 'Details', link: 'https://plugins.craftcms.com/saml-sp'},
             {text: 'Changelog', link: 'https://github.com/flipboxfactory/saml-sp/blob/master/CHANGELOG.md'},
             {text: 'Repo', link: 'https://github.com/flipboxfactory/saml-sp'}
         ],
